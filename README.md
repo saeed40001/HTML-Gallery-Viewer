@@ -113,7 +113,12 @@ The application is available here:
 https://www.getly.store/product/html-gallery-viewer-xf2l
 
 
-## License
+![HTML Gallery Viewer Screenshot](images/screenshot-2.png)
+![HTML Gallery Viewer Screenshot](images/screenshot-3.png)
+![HTML Gallery Viewer Screenshot](images/screenshot-4.png)
+![HTML Gallery Viewer Screenshot](images/screenshot-5.png)
+![HTML Gallery Viewer Screenshot](images/screenshot-6.png)
+
 
 This repository contains project information only.
 
