@@ -54,7 +54,7 @@ HTML Gallery Viewer creates a visual workspace where you can:
 - Review generated HTML output efficiently
 - Avoid browser tab overload
 
-
+![HTML Gallery Viewer Screenshot](images/screenshot-2.png)
 ## Local & Private
 
 HTML Gallery Viewer works locally on your computer.
@@ -65,7 +65,7 @@ Your HTML files:
 - Are not uploaded anywhere
 - Do not require an online preview service
 
-
+![HTML Gallery Viewer Screenshot](images/screenshot-3.png)
 ## Technical Details
 
 Built with:
@@ -94,7 +94,7 @@ You can use:
 
 - The included Tailwind source
 - Your own local CSS/JS source
-
+![HTML Gallery Viewer Screenshot](images/screenshot-4.png)
 ## Source Code
 
 The source code is not publicly available at the moment.
@@ -113,9 +113,7 @@ The application is available here:
 https://www.getly.store/product/html-gallery-viewer-xf2l
 
 ##image
-![HTML Gallery Viewer Screenshot](images/screenshot-2.png)
-![HTML Gallery Viewer Screenshot](images/screenshot-3.png)
-![HTML Gallery Viewer Screenshot](images/screenshot-4.png)
+
 ![HTML Gallery Viewer Screenshot](images/screenshot-5.png)
 ![HTML Gallery Viewer Screenshot](images/screenshot-6.png)
 
