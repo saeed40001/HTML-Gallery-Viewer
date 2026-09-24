@@ -1,5 +1,5 @@
 # HTML Gallery Viewer 1.0.1
-
+![HTML Gallery Viewer Screenshot](images/screenshot-1.png)
 Preview up to 120 local HTML pages at once — without opening dozens of browser tabs.
 
 HTML Gallery Viewer is a lightweight Windows desktop application for frontend developers, web designers, and developers who work with large collections of local HTML files.
