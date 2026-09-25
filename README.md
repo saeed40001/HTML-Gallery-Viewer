@@ -123,13 +123,21 @@ https://www.getly.store/product/html-gallery-viewer-xf2l
 Technical Details
 
 -HTML Gallery Viewer is a desktop application built with standard web technologies and packaged with Electron.
+
 -Frontend: HTML, CSS, and JavaScript
+
 -Desktop Runtime: Electron
+
 -Platform: Windows
+
 -Rendering: Local HTML documents are rendered inside the application's gallery using embedded browser frames
+
 -File Handling: Local HTML/HTM files are loaded directly from the user's computer
+
 -Tailwind Support: Local CSS/JavaScript files can be selected and injected into individual HTML previews during the current session
+
 -Internet Connection: Not required for the core HTML preview workflow
+
 -Source Code: Not included. The product is distributed as a compiled desktop application.
 
 Planned Updates
@@ -138,13 +146,13 @@ HTML Gallery Viewer will continue to evolve based on user feedback and the recep
 If the product receives enough interest, future updates may expand the current HTML preview capabilities.
 
 Planned Improvements
-Enhanced Single-Page Preview
-The current Center and Tailwind Source Injection features are available while HTML pages are displayed in the gallery.
-A future update is planned to extend these capabilities to pages opened in a larger, single-page view.
-This would allow you to:
-Center an HTML page while viewing it individually
-Apply the selected Tailwind CSS/JavaScript source to an individually opened page
-Work with a single HTML page in a larger viewing area while retaining the same preview controls
+-Enhanced Single-Page Preview
+-The current Center and Tailwind Source Injection features are available while HTML pages are displayed in the gallery.
+-A future update is planned to extend these capabilities to pages opened in a larger, single-page view.
+-This would allow you to:
+  Center an HTML page while viewing it individually
+  Apply the selected Tailwind CSS/JavaScript source to an individually opened page
+  Work with a single HTML page in a larger viewing area while retaining the same preview controls
 
 Current Status
 At the moment, Center and Tailwind Source Injection are available for HTML pages within the gallery view.
