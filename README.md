@@ -146,13 +146,13 @@ HTML Gallery Viewer will continue to evolve based on user feedback and the recep
 If the product receives enough interest, future updates may expand the current HTML preview capabilities.
 
 Planned Improvements
--Enhanced Single-Page Preview
+-Enhanced Single-Page Preview.
 -The current Center and Tailwind Source Injection features are available while HTML pages are displayed in the gallery.
 -A future update is planned to extend these capabilities to pages opened in a larger, single-page view.
 -This would allow you to:
-  Center an HTML page while viewing it individually
-  Apply the selected Tailwind CSS/JavaScript source to an individually opened page
-  Work with a single HTML page in a larger viewing area while retaining the same preview controls
+  Center an HTML page while viewing it individually.
+  Apply the selected Tailwind CSS/JavaScript source to an individually opened page.
+  Work with a single HTML page in a larger viewing area while retaining the same preview controls.
 
 Current Status
 At the moment, Center and Tailwind Source Injection are available for HTML pages within the gallery view.
