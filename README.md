@@ -29,6 +29,7 @@ Select → Preview → Compare → Open
 
 
 ## Who is it for?
+Important note: This tool is not for everyone. This tool is developed for specific developers and is useful for them. As explained in detail below, this tool will save them a lot of time and hours. It makes their work in development easier and meets their specific needs.
 
 HTML Gallery Viewer is designed for:
 
@@ -41,7 +42,7 @@ HTML Gallery Viewer is designed for:
 - Developers working with AI-generated HTML
 - Developers comparing multiple UI variations
 - Anyone managing large collections of local HTML files
-
+-Anyone who regularly works with large collections of local HTML files Like a set of ready-made tools and plugins like the Galaxy html collections set on GitHub.
 
 ## Why?
 
@@ -117,6 +118,41 @@ https://www.getly.store/product/html-gallery-viewer-xf2l
 ![HTML Gallery Viewer Screenshot](images/screenshot-5.png)
 ![HTML Gallery Viewer Screenshot](images/screenshot-6.png)
 
+
+
+Technical Details
+
+-HTML Gallery Viewer is a desktop application built with standard web technologies and packaged with Electron.
+-Frontend: HTML, CSS, and JavaScript
+-Desktop Runtime: Electron
+-Platform: Windows
+-Rendering: Local HTML documents are rendered inside the application's gallery using embedded browser frames
+-File Handling: Local HTML/HTM files are loaded directly from the user's computer
+-Tailwind Support: Local CSS/JavaScript files can be selected and injected into individual HTML previews during the current session
+-Internet Connection: Not required for the core HTML preview workflow
+-Source Code: Not included. The product is distributed as a compiled desktop application.
+
+Planned Updates
+HTML Gallery Viewer will continue to evolve based on user feedback and the reception of the application.
+
+If the product receives enough interest, future updates may expand the current HTML preview capabilities.
+
+Planned Improvements
+Enhanced Single-Page Preview
+The current Center and Tailwind Source Injection features are available while HTML pages are displayed in the gallery.
+A future update is planned to extend these capabilities to pages opened in a larger, single-page view.
+This would allow you to:
+Center an HTML page while viewing it individually
+Apply the selected Tailwind CSS/JavaScript source to an individually opened page
+Work with a single HTML page in a larger viewing area while retaining the same preview controls
+
+Current Status
+At the moment, Center and Tailwind Source Injection are available for HTML pages within the gallery view.
+Support for these features in the larger single-page viewing mode is planned for a future update.
+Future development will depend on user feedback, and the continued development of HTML Gallery Viewer.
+Important
+This application is designed for viewing and inspecting local HTML files. It does not replace a full web browser or a complete HTML development environment.
+One-time purchase. No subscription.
 
 This repository contains project information only.
 
